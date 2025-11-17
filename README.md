@@ -31,7 +31,7 @@
 #### When they ride (weekday vs. weekend)
 #### How long their rides last
 #### What times of day they use the bikes
-#### I plan to explore seasonal patterns or trends across different months as a possible next step.
+#### I also plan to explore seasonal patterns or trends across different months as a possible next step.
 
 ### Build Visualizations
 #### I create charts and tables, to help show the differences clearly. These visualizations help make the patterns easier to explain and share.
