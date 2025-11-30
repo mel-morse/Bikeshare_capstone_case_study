@@ -34,7 +34,10 @@ Working with large datasets
 
 **Case Study PDF:** [Download](./Cyclistic_Case_Study.pdf)
 
-Plots folder: Contains all exported visualizations used in the case study, including:
+Data folder: Not included (Owner does not allow data redistribution)
+
+**Plots folder:** [Open](https://github.com/mel-morse/Bikeshare_capstone_case_study/tree/main/data_viz_plots) 
+Contains all exported visualizations used in the case study, including:
 
 ride_volume_member_vs_casual.png
 
@@ -48,8 +51,9 @@ avg_ride_length_by_hour_members.png
 
 casual_weekend_avg_length.png
 
-Data folder: Not included (Cyclistic does not allow data redistribution)
-
 #### 📘 Full Case Study
 
 See the complete findings, visualizations, and recommendations in the PDF included in this repository.
+
+📄 **View the Case Study on GitHub**  
+[Click here](https://github.com/mel-morse/Bikeshare_capstone_case_study/blob/main/Cyclistic%20Bike-Share%20Analysis.pdf)
